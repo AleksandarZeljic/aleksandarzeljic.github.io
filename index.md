@@ -1,4 +1,5 @@
-I am a computer scientist and I hold a PhD from Department of Information Technology, Uppsala University. My research focused on SMT-style reasoning about machine arithmetic (floating-point and bit-vector arithmetics). I was supervised by Philipp Ruemmer, Christoph M. Wintersteiger and Wang Yi. You can find my CV here.
+## About
+I am a computer scientist and I hold a PhD from Department of Information Technology, Uppsala University. My research focused on SMT-style reasoning about machine arithmetic (floating-point and bit-vector arithmetics). I was supervised by Philipp Ruemmer, Christoph M. Wintersteiger and Wang Yi. You can find my [CV](/azcv.pdf) here.
 
 ## Research
 My research interests include the following:
@@ -8,9 +9,9 @@ My research interests include the following:
 * Machine learning
 
 ## Projects:
-  - UppSAT - implements an approximation-based framework for SMT solvers.
-  - mcBV - a model-constructing SMT solver for the theory of quantifier-free fixed-size bit-vectors.
-  - SmallFloats - prototype implementation of the approximation framework in Z3 SMT solver.
+  - [UppSAT](https://github.com/uuverifiers/uppsat) - implements an approximation-based framework for SMT solvers.
+  - [mcBV](https://github.com/Microsoft/mcBV) - a model-constructing SMT solver for the theory of quantifier-free fixed-size bit-vectors.
+  - [SmallFloats](https://github.com/AleksandarZeljic/z3) - prototype implementation of the approximation framework as a tactic within Z3 SMT solver.
 
 ## Publications
 
@@ -36,6 +37,7 @@ Over the course of my PhD I have been actively involved in teaching. I have TA'd
  * Algorithms and Data Structures 1 (2017) 
  * Machine Learning (2018)
  * Computer Architecture (2018).
+ 
 ## Service
 
 PC member: VSSTE 2018
