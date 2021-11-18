@@ -35,10 +35,10 @@ My research interests include the following:
 * **Parallelization techniques for verifying neural networks** - H. Wu, A. Ozdemir, A. Zeljić, et al.
   in 2020 Formal Methods in Computer Aided Design (FMCAD), 128-137,	18,	2020
 
-* **The Marabou framework for verification and analysis of deep neural networks ** - G. Katz, D. A. Huang, D. Ibeling, et al.
+* **The Marabou framework for verification and analysis of deep neural networks** - G. Katz, D. A. Huang, D. Ibeling, et al.
  in International Conference on Computer Aided Verification (CAV), 443-452,	177, 2019
 
-* **Bit-vector interpolation and quantifier elimination by lazy reduction ** - P. Backeman, P. Rümmer, A. Zeljić
+* **Bit-vector interpolation and quantifier elimination by lazy reduction** - P. Backeman, P. Rümmer, A. Zeljić
  in 2018 Formal Methods in Computer Aided Design (FMCAD), 1-10
 
 * **Exploring Approximations for Floating-Point Arithmetic using UppSAT** - A. Zeljić, P. Backeman, C. Wintersteiger, P. Rümmer 
