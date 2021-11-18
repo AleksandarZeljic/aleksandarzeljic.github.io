@@ -16,7 +16,7 @@ My research interests include the following:
 
 * **Automated reasoning (SAT, SMT, Theorem proving)**
 * **Formal verification and testing**
-* **Verification of Machine learning models**
+* **Verification of deep neural networks**
 
 ## My Projects:
   - [Marabou](https://github.com/NeuralNetworkVerification/Marabou) - a framework for verification of deep neural networks.
