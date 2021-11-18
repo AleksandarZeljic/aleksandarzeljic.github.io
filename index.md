@@ -1,31 +1,57 @@
 ## About
-I am a computer scientist and I hold a PhD from Department of Information Technology, Uppsala University. My research focused on SMT-style reasoning about machine arithmetic (floating-point and bit-vector arithmetics). I was supervised by Philipp Ruemmer, Christoph M. Wintersteiger and Wang Yi. You can find my CV [here](/azcv.pdf).
+I am a computer scientist and a postdoc at Stanford at [Center for Automated
+Reasoning at Stanford University](https://centaur.stanford.edu) and [Stanford's
+Center for AI Safety](https://aisafety.stanford.edu). I am supervised by Prof.
+Clark Barrett. My current work focuses on
+[Marabou](https://neuralnetworkverification.github.io/), a tool for deep neural
+network verification. My resume can be found [here](azresume.pdf).
+
+I hold a PhD from Department of Information Technology, Uppsala University. My
+PhD thesis was on SMT-style reasoning about machine arithmetic
+(floating-point and bit-vector arithmetics). I was supervised by Philipp
+Ruemmer, Christoph M. Wintersteiger and Wang Yi.
 
 ## Research
 My research interests include the following:
 
 * **Automated reasoning (SAT, SMT, Theorem proving)**
 * **Formal verification and testing**
-* **Machine learning**
+* **Verification of Machine learning models**
 
-## Projects:
+## My Projects:
+  - [Marabou](https://github.com/NeuralNetworkVerification/Marabou) - a framework for verification of deep neural networks.
   - [UppSAT](https://github.com/uuverifiers/uppsat) - implements an approximation-based framework for SMT solvers.
   - [mcBV](https://github.com/Microsoft/mcBV) - a model-constructing SMT solver for the theory of quantifier-free fixed-size bit-vectors.
   - [SmallFloats](https://github.com/AleksandarZeljic/z3) - prototype implementation of the approximation framework as a tactic within Z3 SMT solver.
 
 ## Publications
 
-* **Exploring Approximations for Floating-Point Arithmetic using UppSAT** - A. Zeljic, P. Backeman, C. Wintersteiger, P. Rummer 
+* **Interpolating bit-vector formulas using uninterpreted predicates and Presburger arithmetic** - P. Backeman, P. Rümmer, A. Zeljić
+ in Formal Methods in System Design, 1-36, 2021
+
+* **Global Optimization of Objective Functions Represented by ReLU Networks** - C. A. Strong, H. Wu, A. Zeljić, et al. 
+  in Machine Learning, 2021, [https://doi.org/10.1007/s10994-021-06050-2](https://doi.org/10.1007/s10994-021-06050-2)
+  
+* **Parallelization techniques for verifying neural networks** - H. Wu, A. Ozdemir, A. Zeljić, et al.
+  in 2020 Formal Methods in Computer Aided Design (FMCAD), 128-137,	18,	2020
+
+* **The Marabou framework for verification and analysis of deep neural networks ** - G. Katz, D. A. Huang, D. Ibeling, et al.
+ in International Conference on Computer Aided Verification (CAV), 443-452,	177, 2019
+
+* **Bit-vector interpolation and quantifier elimination by lazy reduction ** - P. Backeman, P. Rümmer, A. Zeljić
+ in 2018 Formal Methods in Computer Aided Design (FMCAD), 1-10
+
+* **Exploring Approximations for Floating-Point Arithmetic using UppSAT** - A. Zeljić, P. Backeman, C. Wintersteiger, P. Rümmer 
   in Proceedings of the 9th International Joint Conference on Automated Reasoning (IJCAR 2018), Springer, July 2018.
 
-* **An Approximation Framework for Solvers and Decision Procedures** - A. Zeljic, C. Wintersteiger and P. Rummer 
+* **An Approximation Framework for Solvers and Decision Procedures** - A. Zeljić, C. Wintersteiger and P. Rümmer 
   in Journal of Automated Reasoning, Springer, November 2016.
 
 
-* **Deciding Bit-Vector Formulas Using MCSAT** - A. Zeljic, C. Wintersteiger and P. Rummer in Proceedings of the 19th International Conference on Theory and Applications of Satisfiability Testing (SAT 2016).
+* **Deciding Bit-Vector Formulas Using MCSAT** - A. Zeljić, C. Wintersteiger and P. Rümmer in Proceedings of the 19th International Conference on Theory and Applications of Satisfiability Testing (SAT 2016).
 
-* **Approximations for Model Construction** - A. Zeljic, C. Wintersteiger and P. Rummer
-  in Proceedings of the 7th International Joint Conference on Automated Reasoning (IJCAR 2014), Springer, July 2014. **Best Paper Award**
+* **Approximations for Model Construction** - A. Zeljić, C. Wintersteiger and P. Rümmer
+  in Proceedings of the 7th International Joint Conference on Automated Reasoning (IJCAR 2014), Springer, July 2014. **IJCAR Best Paper Award**
   
 ## Teaching
 Over the years I have TA'd and/or organized the following courses:
